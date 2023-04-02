@@ -230,7 +230,7 @@ hyphens: auto;
 
 
 .main{
-  background-image: url('http://localhost:8089/static/minicat.svg') ;
+  background-image: url('https://cdn.jsdelivr.net/gh/pstudy2110/projstatic@main/renderbottle/img/minicat.svg') ;
   background-position: center;
   background-repeat: repeat-x repeat-y;
   margin-top: 5.5em;
