@@ -1,4 +1,4 @@
-const ws = new WebSocket('wss://ideal-chainsaw.onrender.com/nav.js/home');
+const ws = new WebSocket('wss://ideal-chainsaw.onrender.com/nav.js/home:8089');
 const navResponses = document.querySelector(".nav-responses");
 ws.addEventListener("open", (event) => {
     console.log("Connected to WebSocket server:", event);
